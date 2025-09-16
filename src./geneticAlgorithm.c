@@ -5,8 +5,8 @@
 
 #define G 9.81
 #define PI 3.14159
-#define TARGETX 200.0
-#define TARGETY 50.0
+#define TARGETX 200.0 #X position for the target
+#define TARGETY 50.0 #Y position for the target
 #define POP_SIZE 200
 #define GENERATIONS 100
 #define KH 30 // Penalty constant for the height
@@ -197,4 +197,5 @@ int main()
 
     printf("Time taken: %.2f seconds\n", time_taken);
     return 0;
+
 }
