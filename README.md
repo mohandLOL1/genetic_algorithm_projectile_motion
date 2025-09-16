@@ -9,7 +9,7 @@ The algorithm was later extended in **Python** for visualization and analysis.
 - Easily adaptable for other optimization problems
 
 ## Example Visualization
-![Trajectory Example](results/trajectories.png)
+![Trajectory Example](fitness_progress.png)
 
 ## Skills Demonstrated
 - C programming & low-level algorithm design
